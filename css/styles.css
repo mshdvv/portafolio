@@ -335,6 +335,17 @@ footer {
 
 
 @media screen and (max-width:768px){
+
+  #main{
+    font-size: 1.4em;
+  }
+
+  #title {
+    font-size: 5rem;
+    color: var(--titles);
+    line-height: 5.5rem;
+  }
+
   #nav-bar{
     justify-content: center;
   }
@@ -344,7 +355,7 @@ footer {
   }
 
   #nav-link{
-    font-size: 1em;
+    font-size: 1.2em;
   }
 
   .projects-container {
